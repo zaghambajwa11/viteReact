@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import Pet from "./Pet.jsx";
 
+
 const ANIMALS = ["bird", "cat", "dog", "rabbit", "reptile"];
 const BREEDS = [""];
 
